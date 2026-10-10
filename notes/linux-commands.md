@@ -8,3 +8,5 @@
 | mkdir | makes a folder |
 | cat | shows file content |
 | whoami | shows current user |
+|date | shows current date |
+| cal | show current month |
